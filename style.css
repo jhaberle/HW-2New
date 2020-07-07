@@ -47,14 +47,21 @@ footer {
     left: 0;
 }
 
-.card {
+#picture {
     float: left;
-    height: 200px;
-    width: 200;
-    margin-right: 10px;
+    height: 90%;
+    width: 90%;
+    position: relative;
 }
 
 p {
     font-size: 22px;
-    margin-right: 10px;
+    /* margin-right: 10px; */
+
+}
+
+#portImg {
+    position: relative;
+    width: 100%;
+    height: 100%;
 }
