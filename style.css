@@ -7,6 +7,7 @@
     color: white;
     float: left;
     margin-right: 75%;
+    margin-left:5px;
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
@@ -15,4 +16,16 @@
 
 .navbar-light .navbar-nav .nav-link {
     color: lawngreen;
+}
+
+.form-group, h1 {
+    margin-left: 20px;
+}
+
+.btn-dark {
+    color: lawngreen;
+    background-color: #343a40;
+    border-color: #343a40;
+    margin-left: 20px;
+    margin-top: 30px;
 }
