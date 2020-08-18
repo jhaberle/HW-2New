@@ -93,3 +93,8 @@ body {
     height: 5px;
     background-color: lawngreen;
 }
+
+.links {
+    float: right;
+    margin: 30 px;
+}
